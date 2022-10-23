@@ -1,0 +1,39 @@
+html {
+    background-image: url('lovecat.jpeg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+    height:100%
+  }
+
+  h1 {
+    text-align:center;
+    background-color:#f0f8ff;
+    border: 2px dotted blue;
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-right:15px;
+    padding-left:10px;
+    width:250px;
+    margin-bottom:20px;
+  }
+
+  p {
+    text-align: justify;
+    background-color: hsla(208, 88%, 72%,
+    1);
+    font-style:italic;
+    padding:20px;
+    border-top: 3px dotted black;
+    border-right: 3px solid black;
+    border-left: 3px double black;
+    border-bottom: 3px dashed black;
+    width: 500px;
+  }
+
+  span {
+    font-weight:bold;
+    color: rgb(196,98,16);
+    margin-left: 2px;
+    margin-right: 5px;
+  }
